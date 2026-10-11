@@ -1,0 +1,3 @@
+# latexmk configuration: build main.tex with XeLaTeX
+$pdf_mode = 5;
+@default_files = ("main.tex");
