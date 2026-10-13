@@ -38,6 +38,7 @@ The font files are included in `fonts/` (`BNazanin.ttf`, `BNazaninBold.ttf`, `BT
 | `sections/05-enforcement.tex` | هـ. اجرای قوانین |
 | `sections/06-appendix-a.tex` | پیوست الف: سیستم ترکیبی برایتول |
 | `sections/07-appendix-b.tex` | پیوست ب: برنامه زمانی روز سوم |
+| `WOC_Rules_Original.pdf` | The original PDF; its pages 23–35 (the English rules) are appended after the translation by `\includepdf` at the end of `main.tex`, without watermark |
 | `images/` | WOF and Iran Othello logos, plus the faint background watermark built from them |
 
 ## Conventions in the sources
